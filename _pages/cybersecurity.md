@@ -1,5 +1,5 @@
 ---
-title: "Posts on Cyber Security"
+title: "Cyber Security"
 layout: cybersecurity
 author_profile: true
 ---
