@@ -10,9 +10,12 @@ Passionate about the ethical and secure use of data, I aim to not only solve bus
 
 ## Let’s Connect
 
-I'm currently **open to Junior Data Analyst roles** or **opportunities in customer insights, data analytics, or data privacy**. If you're hiring or would like to collaborate, I’d love to connect!
+I'm currently **open to Junior Data Analyst roles** or **opportunities in customer insights, data analytics, or data protection & privacy**. If you're hiring or would like to collaborate, I’d love to connect!
 
 📍 Nairobi, Kenya  
 📧 [amusau8@gmail.com](mailto:amusau8@gmail.com)  
 🔗 [LinkedIn: Anne Musau](https://www.linkedin.com/in/anne-musau/)
+💻 [GitHub: github.com/annamusau](https://github.com/annamusau)
+
+                          
 
