@@ -168,20 +168,21 @@ This lab focused on exploring the capabilities of Microsoft Purview Data Loss Pr
 
 ---
 
-## ✅ Lab 2 – Exercise 3: Manage DLP Reports
+## ✅ Lab 2 – Exercise 3: Create DLP using powershell
 
-📊 This final exercise explored reporting and investigation features.
+📊 This final exercise explored reporting and investigation features and created DLP policies using powershell.
 
 - Navigated the DLP reports dashboard  
 - Viewed policy match reports by user, location, and activity type  
-- Used Microsoft Purview Activity Explorer to analyze events  
-- Exported report data for compliance review  
+- Created a DLP policy using powershell 
+- Tested the DLP policy
 
 🖼️ *![image](https://github.com/user-attachments/assets/412bcc9d-1290-49b9-aefb-4c2d437b51d1)*  
 🖼️ *![image](https://github.com/user-attachments/assets/2a083872-1afd-4447-a648-7519b841db95)*
 🖼️ *![image](https://github.com/user-attachments/assets/0c323aa6-c344-4f25-bc6b-f20c84186108)*
 🖼️ *![image](https://github.com/user-attachments/assets/e8cbcffa-3401-4579-8bdc-0b4f263fb35b)* 
-💡 *I gained insights into how DLP incidents are monitored and audited.*
+
+💡 *I gained insights into how DLP policies are created and tested using powershell.*
 
 ---
 
@@ -191,7 +192,7 @@ Through this lab, I was able to:
 
 - 🔐 Implement policies to prevent data leaks  
 - 💻 Apply DLP controls to endpoints and cloud services  
-- 📈 Monitor and analyze data loss incidents  
+- 📈 Create DLP policies using powershell 
 
 These exercises solidified my understanding of Microsoft Purview's DLP capabilities and how they contribute to an organization’s data protection strategy.
 
