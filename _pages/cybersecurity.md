@@ -1,10 +1,11 @@
 ---
 title: "Cyber Security"
 layout: cybersecurity
+permalink: /cybersecurity/
 author_profile: true
 ---
 ---
-title: "My Insights into Azure Security Fundamentals & Core Infrastructure Services"
+Title: "My Insights into Azure Security Fundamentals & Core Infrastructure Services"
 date: 2025-06-11
 author: "Anne Musau"
 tags: ["Azure", "Cloud Security", "Infrastructure", "Microsoft"]
