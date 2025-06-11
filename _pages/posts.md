@@ -1,10 +1,10 @@
 ---
 title: "Posts"
 layout: posts
-permalink: /cybersecurity/My Insights into Azure Security Fundamentals & Core Infrastructure Services/
+permalink: /cybersecurity/Azure Security Fundamentals & Core Infrastructure Services/
 author_profile: true
 ---
-# My Insights into Azure Security Fundamentals & Core Infrastructure Services
+# Azure Security Fundamentals & Core Infrastructure Services
 
 ## Introduction
 
