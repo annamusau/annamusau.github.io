@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Home Page"
+title: "About me"
 ---
 I am a data-driven professional with expertise in analytics, customer insights, and data protection. With a strong foundation in data cleaning, analysis, visualization, and storytelling, I transform complex data into clear, actionable insights that drive strategic decisions and measurable business impact.
 
@@ -15,3 +15,4 @@ I'm currently **open to Junior Data Analyst roles** or **opportunities in custom
 📍 Nairobi, Kenya  
 📧 [amusau8@gmail.com](mailto:amusau8@gmail.com)  
 🔗 [LinkedIn: Anne Musau](https://www.linkedin.com/in/anne-musau/)
+
