@@ -1,6 +1,5 @@
 ---
 title: "Posts by Category"
-layout: categories
-permalink: /categories/
+layout: cybersecurity
 author_profile: true
 ---
