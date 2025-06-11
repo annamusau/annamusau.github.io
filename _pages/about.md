@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Home Page"
 ---
 I am a data-driven professional with expertise in analytics, customer insights, and data protection. With a strong foundation in data cleaning, analysis, visualization, and storytelling, I transform complex data into clear, actionable insights that drive strategic decisions and measurable business impact.
 
