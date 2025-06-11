@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Anne Musau"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile pict.jpg"
   bio    : "I am a certified data analyst with expertise in analytics, customer insights, and data protection.I am passionate about continuous learning and staying current on emerging trends on the same."
   links:
     - label: "Website"
@@ -105,9 +105,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+projects_archive:
   type: liquid
-  path: /categories/
+  path: /projects/
 tag_archive:
   type: liquid
   path: /tags/
