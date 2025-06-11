@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 ---
+I am a data-driven professional with expertise in analytics, customer insights, and data protection. With a strong foundation in data cleaning, analysis, visualization, and storytelling, I transform complex data into clear, actionable insights that drive strategic decisions and measurable business impact.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Passionate about the ethical and secure use of data, I aim to not only solve business problems and improve customer experiences but also ensure compliance with data protection laws. I have hands-on knowledge of data privacy frameworks such as Kenya’s Data Protection Act and the GDPR, enabling organizations to align with regulatory standards while leveraging data for innovation and growth.
