@@ -1,12 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
+  - title: "Home Page"
+    url: /about/
   - title: "Resume Outline"
     url: /resume/
-  - title: "Cyber Security"
-    url: /cybersecurity/
-  - title: "Home Page-About & Contacts"
-    url: /about/
-
+  - title: "Projects"
+    url: /projects/
+  - title: "Posts"
+    url: /posts/
     
     
